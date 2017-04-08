@@ -62,7 +62,7 @@ npmdoc-karma-sinon@0.0.1 /home/travis/build/npmdoc/node-npmdoc-karma-sinon
 │ │ │ └── is-extglob@1.0.0 
 │ │ ├── path-is-absolute@1.0.1 
 │ │ └─┬ readdirp@2.1.0 
-│ │   ├─┬ readable-stream@2.2.8 
+│ │   ├─┬ readable-stream@2.2.9 
 │ │   │ ├── buffer-shims@1.0.0 
 │ │   │ ├── isarray@1.0.0 
 │ │   │ ├── process-nextick-args@1.0.7 
