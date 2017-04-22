@@ -1,9 +1,14 @@
-# api documentation for  [karma-sinon (v1.0.5)](https://github.com/yanoosh/karma-sinon#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-sinon.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-sinon) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-sinon.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-sinon)
+# npmdoc-karma-sinon
+
+#### api documentation for  [karma-sinon (v1.0.5)](https://github.com/yanoosh/karma-sinon#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-sinon.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-sinon) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-sinon.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-sinon)
+
 #### Sinon for Karma
 
-[![NPM](https://nodei.co/npm/karma-sinon.png?downloads=true)](https://www.npmjs.com/package/karma-sinon)
+[![NPM](https://nodei.co/npm/karma-sinon.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-sinon)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-sinon/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-karma-sinon%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-sinon/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-karma-sinon/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-karma-sinon/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-sinon/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-sinon/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-karma-sinon/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Janusz Jablonski",
-        "email": "janusz.jablonski+karma-sinon@gmail.com"
+        "name": "Janusz Jablonski"
     },
     "bugs": {
         "url": "https://github.com/yanoosh/karma-sinon/issues"
@@ -51,8 +55,7 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "yanoosh",
-            "email": "januszjablonski.pl+npm@gmail.com"
+            "name": "yanoosh"
         }
     ],
     "name": "karma-sinon",
@@ -61,25 +64,15 @@
         "karma": ">=0.10",
         "sinon": "*"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/yanoosh/karma-sinon.git"
     },
     "scripts": {},
-    "version": "1.0.5"
+    "version": "1.0.5",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module karma-sinon](#apidoc.module.karma-sinon)
-
-
-
-# <a name="apidoc.module.karma-sinon"></a>[module karma-sinon](#apidoc.module.karma-sinon)
 
 
 
